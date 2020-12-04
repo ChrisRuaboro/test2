@@ -1,0 +1,13 @@
+.my_form {
+    background-color: yellow;
+    display: flex;
+    flex-direction: column;
+}
+.keyword_card {
+    background-color: bisque;
+    text-align: center;
+    border: 2px black solid;
+    min-width: 20px;
+    max-width: 100px;
+    height: auto;
+}
